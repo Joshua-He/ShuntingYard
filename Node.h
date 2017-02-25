@@ -10,7 +10,7 @@ class Node{
 
  private:
   Node* next;
-  char value;
+  char value[20];
 
 
 
